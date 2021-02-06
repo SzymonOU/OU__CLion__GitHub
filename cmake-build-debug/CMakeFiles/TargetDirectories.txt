@@ -1,0 +1,3 @@
+C:/Users/arqad/CLionProjects/OU__CLion__GitHub/cmake-build-debug/CMakeFiles/OU__CLion__GitHub.dir
+C:/Users/arqad/CLionProjects/OU__CLion__GitHub/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/arqad/CLionProjects/OU__CLion__GitHub/cmake-build-debug/CMakeFiles/rebuild_cache.dir
